@@ -1,5 +1,5 @@
 # evote
-A simple electronic voting system built with php,css and mysql
+A simple electronic voting system built with php,bootstrap and mysql
 I created this simple e-voting app using php 5.6.15
 So I enjoy you to use this version or a higher version
 Mind you,I haven't finish the development but I can bet you'll
